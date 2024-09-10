@@ -1,0 +1,12 @@
+COMANDOS	
+
+- Para clonar repositorio: git clone [aca va el url del repositorio]
+
+- Para ver la informacion de nuestro repositorio local: git status
+
+- Sigue TODOS los archivos: git add .
+
+- Se le saca una "foto" al estado del repositorio local: git commit -m "[aca va el comentario de lo que agregamos en el código]"
+
+
+
